@@ -1,0 +1,12 @@
+ul
+{
+    padding:0px;
+    display: block;
+    margin:0px;
+}
+.calc{
+    display: block;
+    margin-top: 100px;
+    text-align: center;
+    background-color: beige;
+}

@@ -1,0 +1,9 @@
+.screen input
+{
+    width:400px;
+    background:#ddd;
+    color:#222;
+    padding:10px;
+    text-align:right;
+
+}
